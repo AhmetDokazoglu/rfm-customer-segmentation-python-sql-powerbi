@@ -8,7 +8,8 @@ Analiz süreci Python ve SQL kullanılarak yürütülmüş, elde edilen çıktı
 
 ## 📊 Power BI Dashboard – Genel Bakış
 
-![Power BI RFM Dashboard](images/dashboard_overview.png)
+![Power BI RFM Dashboard](<img width="1310" height="731" alt="image" src="https://github.com/user-attachments/assets/15bdb3be-6e7f-464f-aceb-edab69f1e436" />
+)
 
 ---
 
