@@ -71,3 +71,15 @@ Bu proje;
 - CV ve GitHub portföylerinde uçtan uca veri analizi projesi  
 
 olarak kullanılabilir.
+
+
+## 👨‍💻 Hazırlayan
+**Yunus Ahmet Dokazoğlu** 
+📍 Ankara, Türkiye  
+🔗 [GitHub Profilim](https://github.com/AhmetDokazoglu)  
+🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ahmet-dokazo%C4%9Flu-9660b2346/)
+
+
+## 📎 Ek Dökümanlar  
+📄 [Proje Raporunun Word Versiyonu (İndir)](https://github.com/AhmetDokazoglu/Crypto-and-Gold-Price-Analysis-ML/raw/refs/heads/main/Kripto%20ve%20Alt%C4%B1n%20Fiyatlar%C4%B1n%C4%B1n%20Analizi%20ve%20Makine%20%C3%96%C4%9Frenmesi%20ile%20%C3%96ng%C3%B6r%C3%BCs%C3%BC.docx)   
+
