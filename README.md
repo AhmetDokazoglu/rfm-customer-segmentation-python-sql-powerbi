@@ -82,6 +82,6 @@ olarak kullanılabilir.
  
 ## 📄 Ek Dokümanlar
 
-- [Proje Raporunun Word Versiyonu (TR)]([RFM%20Customer%20Segmentation%20with%20Python,%20SQL%20&%20Power%20BI(türkçe).docx](https://github.com/AhmetDokazoglu/rfm-customer-segmentation-python-sql-powerbi/raw/refs/heads/main/RFM%20Customer%20Segmentation%20with%20Python,%20SQL%20&%20Power%20BI(t%C3%BCrk%C3%A7e).docx))
+- [Proje Raporunun Word Versiyonu (TR)](https://github.com/AhmetDokazoglu/rfm-customer-segmentation-python-sql-powerbi/raw/refs/heads/main/RFM%20Customer%20Segmentation%20with%20Python,%20SQL%20&%20Power%20BI(t%C3%BCrk%C3%A7e).docx)
 )   
 
