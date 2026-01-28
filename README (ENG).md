@@ -1,62 +1,86 @@
 # RFM Customer Segmentation with Python, SQL & Power BI
 
-Bu proje, müşteri davranışlarını **Recency, Frequency ve Monetary (RFM)** metrikleri üzerinden analiz ederek müşteri segmentleri oluşturmayı ve bu analiz sonuçlarını **Power BI dashboard’ları ile görselleştirerek** karar vericiler için anlamlı ve aksiyona dönüştürülebilir hale getirmeyi amaçlamaktadır.
+This project was developed to help businesses **identify their most valuable customers**, **detect at-risk customer groups**, and **make segment-based, data-driven decisions** by analyzing customer behavior.
 
-Analiz süreci Python ve SQL kullanılarak yürütülmüş, elde edilen çıktılar Power BI ile iş odaklı bir raporlama katmanına dönüştürülmüştür.
-
----
-
-## 📊 Power BI Dashboard – Genel Bakış
-
-![Power BI RFM Dashboard](<img width="1310" height="731" alt="image" src="https://github.com/user-attachments/assets/15bdb3be-6e7f-464f-aceb-edab69f1e436" />
-)
+During the analysis process, RFM metrics were calculated using Python and SQL. The resulting customer segments were then **visualized and transformed into a business-oriented story** through Power BI dashboards, making the insights clear and actionable for decision-makers.
 
 ---
 
-## 🎯 Projenin Sağladığı İş Değeri
+## 📊 Power BI Dashboard – Overview
 
-Bu proje aşağıdaki temel iş sorularına cevap vermektedir:
-
-- En değerli müşteriler kimlerdir?
-- Hangi müşteri segmentleri toplam ciroya en fazla katkıyı sağlamaktadır?
-- Kaybedilme riski olan müşteriler hangi segmentlerde yoğunlaşmaktadır?
-- Segment bazlı pazarlama ve müşteri yönetimi stratejileri nasıl geliştirilebilir?
-
-Bu yönüyle proje, **analitik sonuçların iş kararlarına dönüştürülmesini** hedefleyen uçtan uca bir örnek sunmaktadır.
+![Power BI RFM Dashboard](İmage/dashboard_overview.png.png)
 
 ---
 
-## 🧠 Proje Akışı
+### ℹ️ What is RFM?
 
-Proje kapsamında; ham veriler Python ile temizlenmiş ve analize hazır hale getirilmiş, RFM metrikleri SQL kullanılarak müşteri bazında hesaplanmış ve elde edilen segmentasyon çıktıları Power BI dashboard’ları aracılığıyla görselleştirilmiştir. Proje dosya yapısı; veri dosyaları, Python kodları, SQL sorguları, Power BI dashboard dosyası, analiz raporları ve görselleri içerecek şekilde düzenlenmiştir.
+RFM (Recency, Frequency, Monetary) analysis is a widely used method in marketing and customer analytics that segments customers based on their **most recent purchase date**, **purchase frequency**, and **total spending behavior**.
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## 🎯 Project Objective
+
+The main objectives of this project are:
+
+- Identifying high-value customers  
+- Detecting customer segments with a high risk of churn  
+- Measuring customer behavior using quantitative metrics  
+- Transforming analytical results into **actionable business decisions**  
+
+By doing so, businesses can design **data-driven marketing, campaign, and customer management strategies**.
+
+---
+
+## 🧠 Project Approach
+
+Within the scope of this project:
+
+- Raw sales data was cleaned and prepared for analysis using Python  
+- RFM metrics were calculated at the customer level using SQL  
+- Customers were segmented based on their RFM scores  
+- Segmentation results were visualized using Power BI dashboards  
+
+In this project, Power BI is not used as a calculation tool, but as a **decision support and storytelling layer** that effectively presents analytical outputs.
+
+---
+
+## 🛠️ Technologies Used
 
 - Python (pandas, numpy)
 - SQL (T-SQL)
 - Power BI
-- Excel / CSV veri kaynakları
+- Excel / CSV data sources
 
 ---
 
-## 📑 Proje Çıktıları
+## 📑 Project Outputs
 
-- RFM analiz ve segmentasyon SQL sorguları
-- Python veri ön işleme kodları
-- Power BI dashboard (.pbix)
-- Detaylı analiz raporu (Word)
+- SQL queries for RFM analysis and segmentation  
+- Python scripts for data preprocessing and preparation  
+- Power BI dashboard (.pbix)  
+- Detailed analysis report (Word)  
 
-Bu çıktılar hem **teknik doğrulama** hem de **iş sunumları** için uygundur.
+These outputs are suitable for both **technical review** and **business presentations**.
 
 ---
 
-## 📌 Kullanım Alanları
+## 📌 Use Cases
 
-Bu proje;
-- Upwork ve benzeri freelance platformlarda müşteri analizi ve dashboard portföyü,
-- Şirketler için müşteri segmentasyonu ve karar destek örneği,
-- CV ve GitHub portföylerinde uçtan uca veri analizi projesi
+This project can be used as:
 
-olarak kullanılabilir.
+- A customer segmentation and decision support example for companies  
+- An end-to-end data analysis project for CVs and GitHub portfolios  
+
+---
+
+## 👨‍💻 Author
+**Yunus Ahmet Dokazoğlu**  
+📍 Ankara, Turkey  
+🔗 [GitHub Profile](https://github.com/AhmetDokazoglu)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmet-dokazo%C4%9Flu-9660b2346/)
+
+---
+
+## 📄 Additional Documents
+
+- [Project Report – Word Version (TR)](https://github.com/AhmetDokazoglu/rfm-customer-segmentation-python-sql-powerbi/raw/refs/heads/main/RFM%20Customer%20Segmentation%20with%20Python,%20SQL%20&%20Power%20BI(t%C3%BCrk%C3%A7e).docx)
