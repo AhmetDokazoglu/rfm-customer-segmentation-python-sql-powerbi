@@ -8,7 +8,7 @@ During the analysis process, RFM metrics were calculated using Python and SQL. T
 
 ## 📊 Power BI Dashboard – Overview
 
-![Power BI RFM Dashboard](İmage/dashboard_overview.png.png)
+![Power BI RFM Dashboard](İmage/dashboard_overview(ENG).png.png)
 
 ---
 
